@@ -21,7 +21,7 @@ This project is designed to strengthen **logic building, string manipulation, an
 
 The codebase is organized as a step-by-step learning journey, starting from a basic CLI flow and evolving into object-oriented service structures, design patterns, and benchmarking.
 
-Here is a summary of all **13 Use Cases** implemented in the repository:
+Here is a summary of all **11 Use Cases** implemented in the repository:
 
 | Step / Use Case | Source File & Class Symbol | Approach / Feature |
 |:---|:---|:---|
@@ -36,8 +36,6 @@ Here is a summary of all **13 Use Cases** implemented in the repository:
 | **UC 9** | [`UseCase9RecursivePalindrome.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase9RecursivePalindrome.java)<br> -> [`UseCase9PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase9RecursivePalindrome.java#L27) | Recursive divide-and-conquer strategy |
 | **UC 10** | [`UseCase10PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase10PalindromeCheckerApp.java)<br> -> [`UseCase10PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase10PalindromeCheckerApp.java#L28) | Preprocessing and input normalization |
 | **UC 11** | [`UseCase11PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase11PalindromeCheckerApp.java)<br> -> [`UseCase11PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase11PalindromeCheckerApp.java#L24)<br>👉 [`PalindromeService`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase11PalindromeCheckerApp.java#L51) | OOP encapsulation of validation logic |
-| **UC 12** | [`UseCase12PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase12PalindromeCheckerApp.java)<br> -> [`UseCase12PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase12PalindromeCheckerApp.java#L23)<br>👉 [`PalindromeStrategy`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase12PalindromeCheckerApp.java#L50)<br>👉 [`StackStrategy`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase12PalindromeCheckerApp.java#L63) | Strategy Design Pattern for dynamic algorithms |
-| **UC 13** | [`UseCase13PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase13PalindromeCheckerApp.java)<br> -> [`UseCase13PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase13PalindromeCheckerApp.java#L22) | Execution profiling & nanosecond benchmarking |
 
 ---
 
