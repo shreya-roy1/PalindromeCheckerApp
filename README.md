@@ -21,7 +21,7 @@ This project is designed to strengthen **logic building, string manipulation, an
 
 The codebase is organized as a step-by-step learning journey, starting from a basic CLI flow and evolving into object-oriented service structures, design patterns, and benchmarking.
 
-Here is a summary of all **7 Use Cases** implemented in the repository:
+Here is a summary of all **8 Use Cases** implemented in the repository:
 
 | Step / Use Case | Source File & Class Symbol | Approach / Feature |
 |:---|:---|:---|
@@ -32,6 +32,7 @@ Here is a summary of all **7 Use Cases** implemented in the repository:
 | **UC 5** | [`UseCase5PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase5PalindromeCheckerApp.java)<br> -> [`UseCase5PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase5PalindromeCheckerApp.java#L18) | LIFO comparison via `java.util.Stack` |
 | **UC 6** | [`UseCase6PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase6PalindromeCheckerApp.java)<br> -> [`UseCase6PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase6PalindromeCheckerApp.java#L27) | `Queue` (FIFO) and `Stack` (LIFO) comparison |
 | **UC 7** | [`UseCase7PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase7PalindromeCheckerApp.java)<br> -> [`UseCase7PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase7PalindromeCheckerApp.java#L25) | Double-ended queue matching using `java.util.Deque` |
+| **UC 8** | [`UseCase8PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase8PalindromeCheckerApp.java)<br> -> [`UseCase8PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase8PalindromeCheckerApp.java#L27) | Double-ended matching on `java.util.LinkedList` |
 
 ---
 
