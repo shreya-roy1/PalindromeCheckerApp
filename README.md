@@ -21,19 +21,13 @@ This project is designed to strengthen **logic building, string manipulation, an
 
 The codebase is organized as a step-by-step learning journey, starting from a basic CLI flow and evolving into object-oriented service structures, design patterns, and benchmarking.
 
-Here is a summary of all **9 Use Cases** implemented in the repository:
+Here is a summary of all **3 Use Cases** implemented in the repository:
 
 | Step / Use Case | Source File & Class Symbol | Approach / Feature |
 |:---|:---|:---|
 | **UC 1** | [`UseCase1PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase1PalindromeCheckerApp.java)<br> -> [`PalindromeChecker`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase1PalindromeCheckerApp.java#L25) | Entry Point & Welcome Message |
 | **UC 2** | [`UseCase2PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase2PalindromeCheckerApp.java)<br> -> [`UseCase2PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase2PalindromeCheckerApp.java#L25) | Hardcoded iterative comparison |
 | **UC 3** | [`UseCase3PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase3PalindromeCheckerApp.java)<br> -> [`UseCase3PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase3PalindromeCheckerApp.java#L25) | String reversal construction |
-| **UC 4** | [`UseCase4PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase4PalindromeCheckerApp.java)<br> -> [`UseCase4PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase4PalindromeCheckerApp.java#L17) | Character array (`char[]`) & two-pointer technique |
-| **UC 5** | [`UseCase5PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase5PalindromeCheckerApp.java)<br> -> [`UseCase5PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase5PalindromeCheckerApp.java#L18) | LIFO comparison via `java.util.Stack` |
-| **UC 6** | [`UseCase6PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase6PalindromeCheckerApp.java)<br> -> [`UseCase6PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase6PalindromeCheckerApp.java#L27) | `Queue` (FIFO) and `Stack` (LIFO) comparison |
-| **UC 7** | [`UseCase7PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase7PalindromeCheckerApp.java)<br> -> [`UseCase7PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase7PalindromeCheckerApp.java#L25) | Double-ended queue matching using `java.util.Deque` |
-| **UC 8** | [`UseCase8PalindromeCheckerApp.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase8PalindromeCheckerApp.java)<br> -> [`UseCase8PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase8PalindromeCheckerApp.java#L27) | Double-ended matching on `java.util.LinkedList` |
-| **UC 9** | [`UseCase9RecursivePalindrome.java`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase9RecursivePalindrome.java)<br> -> [`UseCase9PalindromeCheckerApp`](file:///c:/Users/hp/OneDrive/Desktop/coding/step/PalindromeCheckerApp/src/UseCase9RecursivePalindrome.java#L27) | Recursive divide-and-conquer strategy |
 
 ---
 
