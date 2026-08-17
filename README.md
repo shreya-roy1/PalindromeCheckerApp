@@ -1,7 +1,6 @@
 # 🔁 PalindromeCheckerApp
 
-A **console-based Java application** that checks whether a given input (string or number) is a **palindrome**. 
-A palindrome is a value that reads the same forward and backward.
+A **console-based Java application** that checks whether a given input (string or number) is a **palindrome**. A palindrome is a value that reads the same forward and backward.
 
 ---
 
@@ -96,3 +95,5 @@ Here is a summary of all **2 Use Cases** implemented in the repository:
 - Handle user input safely
 - Learn basic algorithm implementation
 - Improve debugging and testing skills
+
+---
