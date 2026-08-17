@@ -38,8 +38,13 @@ public class UseCase2PalindromeCheckerApp {
         int left = 0;
         int right = input.length() - 1;
 
+        System.out.println("Input String: " + input);
+        System.out.println("Starting validation trace...");
+
         // Compare characters from both ends
         while (left < right) {
+            System.out.println("Comparing char at index " + left + " ('" + input.charAt(left) + 
+                               "') with char at index " + right + " ('" + input.charAt(right) + "')");
             if (input.charAt(left) != input.charAt(right)) {
                 isPalindrome = false;
                 break;
@@ -49,7 +54,6 @@ public class UseCase2PalindromeCheckerApp {
         }
 
         // Display result
-        System.out.println("Input String: " + input);
 
         if (isPalindrome) {
             System.out.println("Result: The string is a Palindrome.");
