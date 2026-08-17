@@ -32,18 +32,19 @@ public class UseCase3PalindromeCheckerApp {
 
         String input = "level";
 
-        String reversed = "";
-
-        // Build reversed string
+        // Build reversed string using StringBuilder for memory efficiency
+        StringBuilder reversedBuilder = new StringBuilder();
         for (int i = input.length() - 1; i >= 0; i--) {
-            reversed += input.charAt(i);
+            reversedBuilder.append(input.charAt(i));
         }
+        String reversed = reversedBuilder.toString();
 
         // Compare original and reversed
         boolean isPalindrome = input.equals(reversed);
 
         // Display result
         System.out.println("Original String: " + input);
+        System.out.println("String Length  : " + input.length());
         System.out.println("Reversed String: " + reversed);
 
         if (isPalindrome) {
